@@ -1,7 +1,7 @@
-name: TemplatePlugin
+name: DwarfRadio
 version: 1.0
 api-version: 1.13
-main: de.joeakeem.spigotmc.plugin.template.TemplatePlugin
+main: com.ioixd.dwarfradio.plugin.template.DwarfRadio
 
 commands:
   enrich:
